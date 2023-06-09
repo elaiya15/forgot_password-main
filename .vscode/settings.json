@@ -1,0 +1,7 @@
+{
+    "editor.multiCursorPaste": "full",
+    "editor.hideCursorInOverviewRuler": true,
+    "files.autoSave": "afterDelay",
+    "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
+    "window.closeWhenEmpty": true
+}
